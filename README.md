@@ -1,2 +1,3 @@
-# Boot.dev_Python_Bookbot
-This is part of the Python course in boot.dev
+# Boot.dev Python Bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
